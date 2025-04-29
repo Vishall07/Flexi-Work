@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Flexi_Work/bin/Debug/net6.0
+/Flexi_Work/obj
+/Flexi_Work_Tests/bin
+/Flexi_Work_Tests/obj
